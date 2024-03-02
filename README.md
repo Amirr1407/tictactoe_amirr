@@ -1,2 +1,2 @@
 # tictactoe_amirr
-I have a developed a c programming code for playing tictactoe game
+I have a developed a java programming code for playing tictactoe game
